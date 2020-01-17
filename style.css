@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    flex-direction: column;
+
+}
+h1{
+    color: coral;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+}
+p{
+    color: white;
+}
+
+.bane{
+    border: 1px solid coral;
+}
